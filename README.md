@@ -1,1 +1,1 @@
-Reading [the rust book](https://doc.rust-lang.org).
+Reading [the rust book](https://doc.rust-lang.org/book/).
