@@ -1,7 +1,7 @@
 fn main() {
     // scalar types
-    println!("scalar types: integer, floating-point, boolean, character");
-    println!("compound types: tuple");
+    println!("primary scalar types: integer, floating-point, boolean, character");
+    println!("primitive compound types: tuple, array");
     let tup: (i32, f64, u8) = (500, 6.4, 1);
     let (x, y, z) = tup;
     let five_hundred = tup.0;
