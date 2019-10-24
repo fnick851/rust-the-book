@@ -1,3 +1,3 @@
 fn main() {
-    println!("hello world");
+    hello_rust::hello_world::hello_world();
 }
