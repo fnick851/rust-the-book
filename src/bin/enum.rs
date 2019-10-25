@@ -1,4 +1,3 @@
-#![allow(unused_variables)]
 fn main() {
     #[derive(Debug)]
     enum UsState {
