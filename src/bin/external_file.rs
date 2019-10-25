@@ -1,11 +1,9 @@
-mod mod_file_hosting;
-
-pub use crate::mod_file_hosting::hosting;
+mod mod_hosting;
 
 pub fn eat_at_restaurant() {
-    hosting::add_to_waitlist();
-    hosting::add_to_waitlist();
-    hosting::add_to_waitlist();
+    mod_hosting::add_to_waitlist();
+    mod_hosting::add_to_waitlist();
+    mod_hosting::add_to_waitlist();
 }
 
 fn main() {

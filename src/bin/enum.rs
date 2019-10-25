@@ -5,7 +5,6 @@ fn main() {
         Alabama,
         Alaska,
     }
-
     enum Coin {
         Penny,
         Nickel,

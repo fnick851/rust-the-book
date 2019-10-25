@@ -3,7 +3,6 @@ mod front_of_house {
         pub fn add_to_waitlist() {
             println!("added to wl");
         }
-
         fn seat_at_table() {}
     }
 

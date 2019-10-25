@@ -1,3 +1,6 @@
+mod math;
+
 fn main() {
-    hello_rust::hello_world::hello_world();
+    let result = math::add(1, 2);
+    println!("1 + 2 = {}", result);
 }

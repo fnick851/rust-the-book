@@ -9,7 +9,6 @@ mod back_of_house {
     }
 
     fn cook_order() {}
-
     pub struct Breakfast {
         pub toast: String,
         seasonal_fruit: String,
