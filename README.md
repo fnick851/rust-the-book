@@ -1,3 +1,5 @@
+# Learn Rust
+
 Reading [the rust book](https://doc.rust-lang.org/book/).
 
 Run code in:
